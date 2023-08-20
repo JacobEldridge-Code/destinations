@@ -1,0 +1,41 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-size: 16px;
+    background-color: darkgray;
+}
+
+#title {
+    text-align: center;
+}
+
+.legend {
+    font-weight: 600;
+}
+
+#description {
+    text-align: center;
+    font-size: large;
+}
+
+.btn {
+    background-color: lightpink;
+    width: 60px;
+    float: right;
+    margin-right: 10px;
+}
+
+fieldset {
+    padding-top: 6px;
+    padding-bottom: 8px;
+}
+
+img {
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 195px;
+}
+
